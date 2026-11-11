@@ -1,443 +1,439 @@
-# Open source games
+# 开源游戏
 
-This is a list of different open-source video games and commercial video games open-source remakes.
+本列表收录了各类开源电子游戏以及商业电子游戏的开源重制版。
 
-## Table of contents
+## 目录
 
-- [Action games](#action-games)
-- [Adventure games](#adventure-games)
-- [Business and Tycoon games](#business-and-tycoon-games)
-- [City-Building games](#city-building-games)
-- [First-Person games](#first-person-games)
-- [Platformers](#platformers)
-- [Puzzle games](#puzzle-games)
-- [Racing games](#racing-games)
-- [Real-Time strategies](#real-time-strategies)
-- [Roguelikes](#roguelikes)
-- [Role-Playing games](#role-playing-games)
-- [Sandbox games](#sandbox-games)
-- [Shoot 'em up games](#shoot-em-up-games)
-- [Sport games](#sport-games)
-- [Third-Person games](#third-person-games)
-- [Tower Defense games](#tower-defence-games)
-- [Turn-Based strategies](#turn-based-strategies)
-- [Other lists](#other-lists)
+- [动作游戏](#动作游戏)
+- [冒险游戏](#冒险游戏)
+- [商业与模拟经营游戏](#商业与模拟经营游戏)
+- [城市建造游戏](#城市建造游戏)
+- [第一人称游戏](#第一人称游戏)
+- [平台跳跃游戏](#平台跳跃游戏)
+- [解谜游戏](#解谜游戏)
+- [竞速游戏](#竞速游戏)
+- [即时战略游戏](#即时战略游戏)
+- [Roguelike 游戏](#roguelike-游戏)
+- [角色扮演游戏](#角色扮演游戏)
+- [沙盒游戏](#沙盒游戏)
+- [射击游戏](#射击游戏)
+- [体育游戏](#体育游戏)
+- [第三人称游戏](#第三人称游戏)
+- [塔防游戏](#塔防游戏)
+- [回合制策略游戏](#回合制策略游戏)
+- [其他列表](#其他列表)
 
-## Action games
+## 动作游戏
 
-- **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
+- **[Hypersomnia](https://hypersomnia.io)** - 一款竞技性俯视角射击游戏，拥有极强的动态感和像素风格的怀旧气息。内置地图编辑器。[[源码]](https://github.com/TeamHypersomnia/Hypersomnia)
 
-## Adventure games
+## 冒险游戏
 
-- **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend)
+- **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - 一款带有反转的僵尸冒险密室逃脱游戏。[[源码]](https://github.com/larpon/DeadAscend)
 
-- **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [[source]](https://github.com/endless-sky/endless-sky)
+- **[Endless Sky](https://endless-sky.github.io)** - 太空探索、贸易与战斗游戏。[[源码]](https://github.com/endless-sky/endless-sky)
 
-- **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [[source]](https://github.com/pioneerspacesim/pioneer)
+- **[Pioneer](https://pioneerspacesim.net)** - 一款以 33 世纪之交的银河系为背景的太空冒险游戏。[[源码]](https://github.com/pioneerspacesim/pioneer)
 
-- **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
+- **[ScummVM](https://www.scummvm.org)** - 一个可运行某些经典图形冒险游戏和角色扮演游戏的程序。[[源码]](https://github.com/scummvm/scummvm)
 
-- **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile *[Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)* into human-readable and modifiable source code. [[source]](https://github.com/zeldaret/tp)
+- **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - 一个逆向工程项目，将*[《黄昏公主》](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)*反编译为人类可读且可修改的源代码。[[源码]](https://github.com/zeldaret/tp)
 
-- **Zelda 3** - A reverse engineered clone of *[The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)*. [[source]](https://github.com/snesrev/zelda3)
+- **Zelda 3** - 逆向工程克隆版*[《塞尔达传说：众神的三角力量》](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)*。[[源码]](https://github.com/snesrev/zelda3)
 
-## Business and Tycoon games
+## 商业与模拟经营游戏
 
-- **[CorsixTH](https://corsixth.com)** - Open source clone of [Theme Hospital](https://en.wikipedia.org/wiki/Theme_Hospital). [[source]](https://github.com/CorsixTH/CorsixTH)
+- **[CorsixTH](https://corsixth.com)** - [《主题医院》](https://en.wikipedia.org/wiki/Theme_Hospital)的开源克隆版。[[源码]](https://github.com/CorsixTH/CorsixTH)
 
-- **[Hurry Curry!](https://hurrycurry.org)** - Cooperative fast-paced multiplayer cooking game. [[source]](https://codeberg.org/hurrycurry/hurrycurry)
+- **[Hurry Curry!](https://hurrycurry.org)** - 一款快节奏的合作多人烹饪游戏。[[源码]](https://codeberg.org/hurrycurry/hurrycurry)
 
-- **[OpenLoco](https://openloco.io)** - An open source re-implementation of [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer)'s [Locomotion](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion). [[source]](https://github.com/OpenLoco/OpenLoco)
+- **[OpenLoco](https://openloco.io)** - [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer) 的 [《运输大亨》](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion)的开源重新实现。[[源码]](https://github.com/OpenLoco/OpenLoco)
 
-- **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of *[RollerCoaster Tycoon 2](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2)*. [[source]](https://github.com/OpenRCT2/OpenRCT2)
+- **[OpenRCT2](https://openrct2.org)** - *[《过山车大亨 2》](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2)*的开源重新实现。[[源码]](https://github.com/OpenRCT2/OpenRCT2)
 
-- **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [[source]](https://github.com/OpenTTD/OpenTTD)
+- **[OpenTTD](https://www.openttd.org)** - 一款基于*[《运输大亨豪华版》](https://en.wikipedia.org/wiki/Transport_Tycoon)*的开源模拟游戏。[[源码]](https://github.com/OpenTTD/OpenTTD)
 
-## City-Building games
+## 城市建造游戏
 
-- **[Akhenaten](https://dalerank.itch.io/akhenaten)** - A strategic city-building game, based on assets and gameplay mechanics from *[Pharaoh + Cleopatra](https://en.wikipedia.org/wiki/Pharaoh_(video_game))* title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [[source]](https://github.com/dalerank/Akhenaten)
+- **[Akhenaten](https://dalerank.itch.io/akhenaten)** - 一款策略性城市建造游戏，基于*[《法老 + 克利奥帕特拉》](https://en.wikipedia.org/wiki/Pharaoh_(video_game))*的素材和玩法机制，玩家扮演古埃及文明的统治者和市长。[[源码]](https://github.com/dalerank/Akhenaten)
 
-- **[Citybound](https://aeplay.org/citybound)** - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals. [[source]](https://github.com/citybound/citybound)
+- **[Citybound](https://aeplay.org/citybound)** - 一款城市建造游戏，使用微观模型生动模拟由数百万个体互动所形成的城市有机体。[[源码]](https://github.com/citybound/citybound)
 
-- **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [[source]](https://github.com/CytopiaTeam/Cytopia)
+- **[Cytopia](https://cytopia.itch.io/cytopia)** - 一款免费、开源的复古像素风城市建造游戏。[[源码]](https://github.com/CytopiaTeam/Cytopia)
 
-- **Egregoria** - Egregoria is an indie city builder, mostly inspired by *[Cities: Skylines](https://en.wikipedia.org/wiki/Cities:_Skylines)*. [[source]](https://github.com/Uriopass/Egregoria)
+- **Egregoria** - Egregoria 是一款独立城市建造游戏，主要灵感来自*[《城市：天际线》](https://en.wikipedia.org/wiki/Cities:_Skylines)*。[[源码]](https://github.com/Uriopass/Egregoria)
 
-- **[IsoCity](https://iso-city.com)** - Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [[source]](https://github.com/amilich/isometric-city)
+- **[IsoCity](https://iso-city.com)** - 使用 NextJS、TypeScript 和 TailwindCSS 构建的等距城市建造模拟游戏。[[源码]](https://github.com/amilich/isometric-city)
 
-- **Julius** - An open source re-implementation of *[Caesar III](https://en.wikipedia.org/wiki/Caesar_III)*. [[source]](https://github.com/bvschaik/julius)
+- **Julius** - *[《凯撒大帝 III》](https://en.wikipedia.org/wiki/Caesar_III)*的开源重新实现。[[源码]](https://github.com/bvschaik/julius)
 
-- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS)
+- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - 开源城市模拟器*[Micropolis](https://mvolution.itch.io/micropolis)*的手工 JavaScript 移植版。[[源码]](https://github.com/graememcc/micropolisJS)
 
-- **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building.
+- **[Unknown Horizons](https://unknown-horizons.org)** - 一款 2D 即时战略模拟游戏，侧重于经济与城市建造。
 
-  - **Original:** [[source]](https://github.com/unknown-horizons/unknown-horizons) **Engine: [FIFE](https://www.fifengine.net/)** [[source]](https://github.com/fifengine/fifengine)
+  - **原版：**[[源码]](https://github.com/unknown-horizons/unknown-horizons) **引擎：[FIFE](https://www.fifengine.net/)** [[源码]](https://github.com/fifengine/fifengine)
 
-  - **Godot port:** [[source]](https://github.com/unknown-horizons/godot-port) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
+  - **Godot 移植版：**[[源码]](https://github.com/unknown-horizons/godot-port) **引擎：[Godot](https://godotengine.org)** [[源码]](https://github.com/godotengine/godot)
 
-## First-Person games
+## 第一人称游戏
 
-- **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of [Farbrausch](https://en.wikipedia.org/wiki/Farbrausch)), which won first place in the 96k game competition at [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_(demoparty)) in April 2004. [[source]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger)
+- **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - 一款由德国 demo 团队 .theprodukkt（[Farbrausch](https://en.wikipedia.org/wiki/Farbrausch) 的前分支机构）制作的第一人称射击游戏，于 2004 年 4 月在 [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_(demoparty)) 的 96k 游戏竞赛中获得第一名。[[源码]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger)
 
-- **[Anarch](https://drummyfish.gitlab.io/anarch)** - This isn't a 90s style retro shooter, this is a 90s shooter. [[source]](https://gitlab.com/drummyfish/anarch)
+- **[Anarch](https://drummyfish.gitlab.io/anarch)** - 这不是一款 90 年代风格的复古射击游戏，这就是一款 90 年代射击游戏。[[源码]](https://gitlab.com/drummyfish/anarch)
 
-- **[AssaultCube](https://assault.cubers.net)** - A FREE, multiplayer, first-person shooter game. [[source]](https://github.com/assaultcube/AC) **Engine: [CUBE](http://cubeengine.com)** [[source]](https://github.com/bsegovia/cube)
+- **[AssaultCube](https://assault.cubers.net)** - 一款免费的多人第一人称射击游戏。[[源码]](https://github.com/assaultcube/AC) **引擎：[CUBE](http://cubeengine.com)** [[源码]](https://github.com/bsegovia/cube)
 
-- **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube)
+- **[Cube 2: Sauerbraten](http://sauerbraten.org)** - 一款免费的多人及单人第一人称射击游戏。[[源码]](https://sourceforge.net/projects/sauerbraten) **引擎：[CUBE](https://www.redeclipse.net)** [[源码]](https://github.com/bsegovia/cube)
 
-- **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)
+- **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - 一款第一人称射击游戏。[[源码]](https://github.com/kevinbentley/Descent3)
 
-- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
+- **[Liblast](https://libla.st)** - 一款使用 Godot 4 引擎和完全开源工具链构建的自由多人 FPS 游戏。[[源码]](https://codeberg.org/liblast/liblast) **引擎：[Godot](https://godotengine.org)** [[源码]](https://github.com/godotengine/godot)
 
-- **[Red Eclipse](https://www.redeclipse.net)** - An old-school arena shooter for the modern age. [[source]](https://github.com/redeclipse/base) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube)
+- **[Red Eclipse](https://www.redeclipse.net)** - 一款面向现代时代的老派竞技场射击游戏。[[源码]](https://github.com/redeclipse/base) **引擎：[CUBE](https://www.redeclipse.net)** [[源码]](https://github.com/bsegovia/cube)
 
-- **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [[source]](https://github.com/dpjudas/SurrealEngine)
+- **Surreal Engine** - [《虚幻竞技场》](https://en.wikipedia.org/wiki/Unreal_Tournament)引擎的重新实现。[[源码]](https://github.com/dpjudas/SurrealEngine)
 
-- **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
+- **[The Dark Mod](https://www.thedarkmod.com/main)** - 第一人称潜行游戏。[[源码]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
 
-- **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)
+- **[Xonotic](https://xonotic.org)** - 一款令人上瘾的竞技场风格第一人称射击游戏，拥有干脆利落的移动手感和种类繁多的武器。[[源码]](https://gitlab.com/xonotic/xonotic)
 
-### *[Aliens Versus Predator](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_(1999_video_game)) game source ports*
+### *[《异形大战铁血战士》](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_(1999_video_game))游戏源码移植版*
 
-- **AvP Forever** - Project focuses on maintenance of available source code for *Aliens versus Predator (1999)* game. [[source]](https://github.com/dreamer/avp-forever)
+- **AvP Forever** - 该项目专注于维护*《异形大战铁血战士（1999）》*游戏现有源代码。[[源码]](https://github.com/dreamer/avp-forever)
 
-- **avpmp** - Fork of the original AvP port for Linux, expanded with multiplayer and other features. [[source]](https://github.com/mbait/avpmp)
+- **avpmp** - 原始 AvP Linux 移植版的分支，扩展了多人游戏及其他功能。[[源码]](https://github.com/mbait/avpmp)
 
-- **NakedAVP** - A port of *Aliens vs Predator Classic (2000)* to modern systems, based on the icculus port for Linux, macOS and Windows using [SDL3](https://libsdl.org/) ([[source]](https://github.com/libsdl-org/SDL)). [[source]](https://github.com/atsb/NakedAVP)
+- **NakedAVP** - 将*《异形大战铁血战士经典版（2000）》*移植到现代系统，基于 icculus 针对 Linux、macOS 和 Windows 的移植版，使用 [SDL3](https://libsdl.org/)（[[源码]](https://github.com/libsdl-org/SDL)）。[[源码]](https://github.com/atsb/NakedAVP)
 
-### *[Build engine](https://en.wikipedia.org/wiki/Build_(game_engine)) [[source]](https://advsys.net/ken/buildsrc) based games*
+### *基于 [Build 引擎](https://en.wikipedia.org/wiki/Build_(game_engine)) [[源码]](https://advsys.net/ken/buildsrc) 的游戏*
 
-- **[Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)** - By [3D Realms Entertainment, Inc](https://en.wikipedia.org/wiki/3D_Realms). [[source]](https://github.com/videogamepreservation/dukenukem3d)
+- **[《毁灭公爵 3D》](https://en.wikipedia.org/wiki/Duke_Nukem_3D)** - 由 [3D Realms Entertainment, Inc](https://en.wikipedia.org/wiki/3D_Realms) 制作。[[源码]](https://github.com/videogamepreservation/dukenukem3d)
 
-- **Shadow Warrior** - Official source release for [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)). [[source]](https://github.com/Azarien/shadow-warrior)
+- **Shadow Warrior** - [《影子武士》](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game))的官方源码发布。[[源码]](https://github.com/Azarien/shadow-warrior)
 
-#### *Source Ports and Re-Implementations*
+#### *源码移植版与重新实现*
 
-- **BuildGDX** - [[source]](https://github.com/vogonsorg/BuildGDX)
+- **BuildGDX** - [[源码]](https://github.com/vogonsorg/BuildGDX)
 
-- **[EDuke32](https://voidpoint.io/terminx/eduke32)** - The official EDuke32 Git repository: home to the source code to EDuke32, [Ion Fury](https://en.wikipedia.org/wiki/Ion_Fury), VoidSW, Mapster32, and related projects based on the Build Engine.
+- **[EDuke32](https://voidpoint.io/terminx/eduke32)** - EDuke32 官方 Git 仓库：托管 EDuke32、[《离子狂怒》](https://en.wikipedia.org/wiki/Ion_Fury)、VoidSW、Mapster32 以及基于 Build 引擎的相关项目的源代码。
 
-- **[JFDuke3D](https://www.jonof.id.au/jfduke3d)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) [[source]](https://github.com/jonof/jfduke3d)
+- **[JFDuke3D](https://www.jonof.id.au/jfduke3d)** - [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) 游戏[《毁灭公爵 3D》](https://en.wikipedia.org/wiki/Duke_Nukem_3D)的移植版。[[源码]](https://github.com/jonof/jfduke3d)
 
-- **[JFShadowWarrior](https://www.jonof.id.au/jfsw)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)).
+- **[JFShadowWarrior](https://www.jonof.id.au/jfsw)** - [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) 游戏[《影子武士》](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game))的移植版。
 
-- **[NBlood](https://github.com/NBlood/NBlood)** - Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [[source]](https://github.com/NBlood/NBlood)
+- **[NBlood](https://github.com/NBlood/NBlood)** - 使用 EDuke32 引擎技术及开发原则对 Build 游戏进行逆向工程移植（NBlood/Rednukem/PCExhumed）。[[源码]](https://github.com/NBlood/NBlood)
 
-- **NuBuildGDX** -  A fork of BuildGDX aiming for stability, bug fixing and performance. [[source]](https://github.com/atsb/NuBuildGDX)
+- **NuBuildGDX** - BuildGDX 的一个分支，旨在提升稳定性、修复缺陷和优化性能。[[源码]](https://github.com/atsb/NuBuildGDX)
 
-- **[Raze](https://github.com/ZDoom/Raze)** - Build engine port backed by GZDoom tech. Currently supports [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D), [Blood](https://en.wikipedia.org/wiki/Blood_(video_game)), [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)), [Redneck Rampage](https://en.wikipedia.org/wiki/Redneck_Rampage) and [Powerslave](https://en.wikipedia.org/wiki/PowerSlave)/Exhumed.
+- **[Raze](https://github.com/ZDoom/Raze)** - 由 GZDoom 技术支持的 Build 引擎移植版。目前支持[《毁灭公爵 3D》](https://en.wikipedia.org/wiki/Duke_Nukem_3D)、[《血祭》](https://en.wikipedia.org/wiki/Blood_(video_game))、[《影子武士》](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game))、[《红脖子狂飙》](https://en.wikipedia.org/wiki/Redneck_Rampage)以及[《 Powerslave》](https://en.wikipedia.org/wiki/PowerSlave)/Exhumed。
 
-### *[id Software](https://en.wikipedia.org/wiki/Id_Software) Games*
+### *[id Software](https://en.wikipedia.org/wiki/Id_Software) 游戏*
 
-- **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))** - [[source]](https://github.com/id-Software/DOOM)
+- **[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))** - [[源码]](https://github.com/id-Software/DOOM)
 
-- **DOOM64-RE** - Complete reverse engineering of [Doom 64](https://en.wikipedia.org/wiki/Doom_64). [[source]](https://github.com/Erick194/DOOM64-RE)
+- **DOOM64-RE** - [《毁灭战士 64》](https://en.wikipedia.org/wiki/Doom_64)的完整逆向工程。[[源码]](https://github.com/Erick194/DOOM64-RE)
 
-- **[Doom 3](https://en.wikipedia.org/wiki/Doom_3) BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG)
+- **[《毁灭战士 3》](https://en.wikipedia.org/wiki/Doom_3) BFG 版** - [[源码]](https://github.com/id-Software/DOOM-3-BFG)
 
-- **[Quake](https://en.wikipedia.org/wiki/Quake_(video_game))** - [[source]](https://github.com/id-Software/Quake)
+- **[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))** - [[源码]](https://github.com/id-Software/Quake)
 
-- **[Quake II](https://en.wikipedia.org/wiki/Quake_II)** - [[source]](https://github.com/id-Software/Quake-2)
+- **[《雷神之锤 II》](https://en.wikipedia.org/wiki/Quake_II)** - [[源码]](https://github.com/id-Software/Quake-2)
 
-- **[Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)** - [[source]](https://github.com/id-Software/Quake-III-Arena)
+- **[《雷神之锤 III 竞技场》](https://en.wikipedia.org/wiki/Quake_III_Arena)** - [[源码]](https://github.com/id-Software/Quake-III-Arena)
 
-- **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [[source]](https://github.com/id-Software/wolf3d)
+- **[《德军总部 3D》](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [[源码]](https://github.com/id-Software/wolf3d)
 
-#### *Source Ports and Re-Implementations*
+#### *源码移植版与重新实现*
 
 - **[Catacomb 3-D](https://en.wikipedia.org/wiki/Catacomb_3-D)**
 
-  - **CatacombGL** -  A source port of Catacomb 3D and the Catacomb Adventure series. [[source]](https://github.com/ArnoAnsems/CatacombGL)
+  - **CatacombGL** - Catacomb 3D 及 Catacomb 冒险系列的源码移植版。[[源码]](https://github.com/ArnoAnsems/CatacombGL)
 
-- **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))**
+- **[《毁灭战士》](https://en.wikipedia.org/wiki/Doom_(1993_video_game))**
 
-  - **[Chocolate Doom](https://www.chocolate-doom.org)** - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [[source]](https://github.com/chocolate-doom/chocolate-doom)
+  - **[Chocolate Doom](https://www.chocolate-doom.org)** - 一款 Doom 源码移植版，精准还原 20 世纪 90 年代游玩 Doom 的体验。[[源码]](https://github.com/chocolate-doom/chocolate-doom)
 
-  - **[ZDoom](https://zdoom.org)** - A feature centric port for all Doom engine games. [[source]](https://github.com/UZDoom/UZDoom)
+  - **[ZDoom](https://zdoom.org)** - 一款以功能为核心、适用于所有 Doom 引擎游戏的移植版。[[源码]](https://github.com/UZDoom/UZDoom)
 
-- **[Quake](https://en.wikipedia.org/wiki/Quake_(video_game))**
+- **[《雷神之锤》](https://en.wikipedia.org/wiki/Quake_(video_game))**
 
-  - **Chocolate Quake** - A purist Quake source port that restores the original look and feel of v1.09 and earlier. [[source]](https://github.com/Henrique194/chocolate-quake)
+  - **Chocolate Quake** - 一款纯粹主义的 Quake 源码移植版，恢复了 v1.09 及更早版本的原初外观与手感。[[源码]](https://github.com/Henrique194/chocolate-quake)
 
-  - **[FTEQW](https://www.fteqw.org)** - Powerful engine for playing and modding idTech based games. [[source]](https://github.com/fte-team/fteqw)
+  - **[FTEQW](https://www.fteqw.org)** - 用于游玩和模改基于 idTech 游戏的强大引擎。[[源码]](https://github.com/fte-team/fteqw)
 
-- **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)**
+- **[《德军总部 3D》](https://en.wikipedia.org/wiki/Wolfenstein_3D)**
 
-  - **ECWolf** - A port of the Wolfenstein 3D engine based of Wolf4SDL. [[source]](https://bitbucket.org/ecwolf/ecwolf)
+  - **ECWolf** - 基于 Wolf4SDL 的《德军总部 3D》引擎移植版。[[源码]](https://bitbucket.org/ecwolf/ecwolf)
 
-  - **Wolf4SDL** - An open-source port of id Software's classic first-person shooter Wolfenstein 3D to the cross-platform multimedia library SDL. [[source]](https://github.com/lazd/wolf4sdl)
+  - **Wolf4SDL** - id Software 经典第一人称射击游戏《德军总部 3D》的跨平台多媒体库 SDL 开源移植版。[[源码]](https://github.com/lazd/wolf4sdl)
 
-## Platformers
+## 平台跳跃游戏
 
-- **[Commander Keen](https://en.wikipedia.org/wiki/Commander_Keen)**
+- **[《指挥官基恩》](https://en.wikipedia.org/wiki/Commander_Keen)**
 
-  - **Commander-Genius** - An open-source interpreter for the
-Commander Keen (1-6, Dreams) and [Cosmo's Cosmic](https://en.wikipedia.org/wiki/Cosmo%27s_Cosmic_Adventure) series
-which allows you to play the original episodes and
-some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Commander-Genius)
+  - **Commander-Genius** - 一款开源解释器，支持《指挥官基恩》（1-6、Dreams）和 [Cosmo's Cosmic](https://en.wikipedia.org/wiki/Cosmo%27s_Cosmic_Adventure) 系列，可游玩原始章节以及部分为其制作的模组。[[源码]](https://gitlab.com/Dringgstein/Commander-Genius)
 
-  - **[Commander Keen in Keen Dreams](https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams)** - A side-scrolling platform video game developed by id Software. [[source]](https://github.com/keendreams/keen)
+  - **[《指挥官基恩：基恩之梦》](https://en.wikipedia.org/wiki/Commander_Keen_in_Keen_Dreams)** - 一款由 id Software 开发的横版卷轴平台游戏。[[源码]](https://github.com/keendreams/keen)
 
-  - **Omnispeak** - An open-source re-implementation of [Commander Keen in Goodbye Galaxy](https://en.wikipedia.org/wiki/Commander_Keen_in_Goodbye,_Galaxy). [[source]](https://github.com/sulix/omnispeak)
+  - **Omnispeak** - [《指挥官基恩：再见银河》](https://en.wikipedia.org/wiki/Commander_Keen_in_Goodbye,_Galaxy)的开源重新实现。[[源码]](https://github.com/sulix/omnispeak)
 
-- **[DDraceNetwork](https://ddnet.tw)** - Cooperative 2D online platformer. [[source]](https://github.com/ddnet/ddnet)
+- **[DDraceNetwork](https://ddnet.tw)** - 合作式 2D 在线平台游戏。[[源码]](https://github.com/ddnet/ddnet)
 
-- **[Fish Folk](https://fishfolk.org) Games**
+- **[Fish Folk](https://fishfolk.org) 游戏**
 
-  - **[Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [[source]](https://github.com/fishfolk/jumpy) **Engine: [Bevy](https://bevy.org/)** [[source]](https://github.com/bevyengine/bevy)
+  - **[Jumpy](https://fishfolk.org/games/jumpy)** - 一款战术 2D 射击游戏。[[源码]](https://github.com/fishfolk/jumpy) **引擎：[Bevy](https://bevy.org/)** [[源码]](https://github.com/bevyengine/bevy)
 
-  - **[Punchy](https://github.com/fishfolk/punchy)** - A 2.5D side-scroller beatemup, made in Bevy. **Engine: [Bevy](https://bevy.org/)** [[source]](https://github.com/bevyengine/bevy)
+  - **[Punchy](https://github.com/fishfolk/punchy)** - 一款使用 Bevy 制作的 2.5D 横版卷轴格斗游戏。**引擎：[Bevy](https://bevy.org/)** [[源码]](https://github.com/bevyengine/bevy)
 
-- **[Frogatto & Friends](https://frogatto.com)** - An action-adventure platformer game, starring a certain quixotic frog. [[source]](https://github.com/frogatto/frogatto) **Engine: Anura** [[source]](https://github.com/anura-engine/anura)
+- **[Frogatto & Friends](https://frogatto.com)** - 一款动作冒险平台游戏，主角是一只古怪的青蛙。[[源码]](https://github.com/frogatto/frogatto) **引擎：Anura** [[源码]](https://github.com/anura-engine/anura)
 
-- **[OpenGOAL](https://opengoal.dev)** - This project is to port [Jak & Daxter Series](https://en.wikipedia.org/wiki/Jak_and_Daxter) to PC. [[source]](https://github.com/water111/jak-project)
+- **[OpenGOAL](https://opengoal.dev)** - 该项目旨在将[《杰克与达斯特》系列](https://en.wikipedia.org/wiki/Jak_and_Daxter)移植到 PC。[[源码]](https://github.com/water111/jak-project)
 
-- **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [[source]](https://github.com/lethal-guitar/RigelEngine)
+- **Rigel Engine** - 该项目是游戏[《毁灭公爵 II》](https://en.wikipedia.org/wiki/Duke_Nukem_II)的重新实现，该游戏最初由 Apogee Software 于 1993 年为 MS-DOS 发行。[[源码]](https://github.com/lethal-guitar/RigelEngine)
 
-- **[Sonic Robo Blast 2](https://www.srb2.org)** - A 3D open-source Sonic the Hedgehog fangame built on Doom. [[source]](https://git.do.srb2.org/STJr/SRB2)
+- **[Sonic Robo Blast 2](https://www.srb2.org)** - 一款基于 Doom 构建的 3D 开源索尼克同人游戏。[[源码]](https://git.do.srb2.org/STJr/SRB2)
 
-- **Super Mario 64** - A full decompilation of [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64). [[source]](https://github.com/n64decomp/sm64)
+- **Super Mario 64** - [《超级马力欧 64》](https://en.wikipedia.org/wiki/Super_Mario_64)的完整反编译。[[源码]](https://github.com/n64decomp/sm64)
 
-- **[VVVVVV](https://thelettervsixtim.es/)** - [[source]](https://github.com/TerryCavanagh/VVVVVV)
+- **[VVVVVV](https://thelettervsixtim.es/)** - [[源码]](https://github.com/TerryCavanagh/VVVVVV)
 
-## Puzzle games
+## 解谜游戏
 
-- **[BlockOut II](http://www.blockout.net/blockout2)** - A free adaptation of the original BlockOut® DOS game edited by California Dreams in 1989. [[source]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
+- **[BlockOut II](http://www.blockout.net/blockout2)** - 对 California Dreams 于 1989 年编辑的原始 BlockOut® DOS 游戏的免费改编版。[[源码]](https://sourceforge.net/projects/blockout/files/blockout/BlockOut%202.5)
 
-- **Portal64** - A demake (remake for an older platform) of [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) for the Nintendo 64. [[source]](https://github.com/mwpenny/portal64-still-alive)
+- **Portal64** - [《传送门》](https://en.wikipedia.org/wiki/Portal_(video_game))为任天堂 64 制作的降级重制版（为较旧平台重制）。[[源码]](https://github.com/mwpenny/portal64-still-alive)
 
-- **[Whatajong](https://whatajong.com)** - [[source]](https://github.com/masylum/whatajong)
+- **[Whatajong](https://whatajong.com)** - [[源码]](https://github.com/masylum/whatajong)
 
-## Racing games
+## 竞速游戏
 
-- **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** - A traditional top-down car racing game including a level editor. [[source]](https://github.com/cflavio/yorg)
+- **[Dust Racing 2D](https://github.com/juzzlin/DustRacing2D)** - 一款传统的俯视角赛车游戏，包含关卡编辑器。[[源码]](https://github.com/cflavio/yorg)
 
-- **[ManiaDrive](http://maniadrive.raydium.org)** - A free clone of [TrackMania](https://en.wikipedia.org/wiki/TrackMania), the great game from [Nadéo](https://en.wikipedia.org/wiki/Nadeo) studio. [[source]](http://maniadrive.raydium.org/index.php?downloads=yes) **Engine: [Raydium](https://raydium.org)** [[source]](https://raydium.org/data.php)
+- **[ManiaDrive](http://maniadrive.raydium.org)** - [《赛道狂飙》](https://en.wikipedia.org/wiki/TrackMania)（[Nadéo](https://en.wikipedia.org/wiki/Nadeo) 工作室的佳作）的免费克隆版。[[源码]](http://maniadrive.raydium.org/index.php?downloads=yes) **引擎：[Raydium](https://raydium.org)** [[源码]](https://raydium.org/data.php)
 
-- **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [[source]](https://github.com/RigsOfRods/rigs-of-rods) **Engine: [OGRE](https://www.ogre3d.org)** [[source]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [[source]](https://github.com/ocornut/imgui)
+- **[Rigs of Rods](https://www.rigsofrods.org)** - 一款开源物理沙盒模拟游戏，可实时模拟车辆的运​​动与变形。[[源码]](https://github.com/RigsOfRods/rigs-of-rods) **引擎：[OGRE](https://www.ogre3d.org)** [[源码]](https://github.com/OGRECave) **UI：[Dear ImGui](https://www.dearimgui.com)** [[源码]](https://github.com/ocornut/imgui)
 
-- **[RVGL](https://re-volt.io)** - A cross-platform rewrite / port of [Re-Volt](https://en.wikipedia.org/wiki/Re-Volt) that runs natively on both Windows and GNU/Linux. [[source]](https://gitlab.com/re-volt)
+- **[RVGL](https://re-volt.io)** - [《遥控车》](https://en.wikipedia.org/wiki/Re-Volt)的跨平台重写/移植版，可在 Windows 和 GNU/Linux 上原生运行。[[源码]](https://gitlab.com/re-volt)
 
-- **[Speed Dreams](https://www.speed-dreams.net)** - A free and open source motorsport simulator. [[source]](https://forge.a-lec.org/xavi/speed-dreams-code)
+- **[Speed Dreams](https://www.speed-dreams.net)** - 一款免费开源的赛车运动模拟器。[[源码]](https://forge.a-lec.org/xavi/speed-dreams-code)
 
-- **[Stunt Rally](https://stuntrally.tuxfamily.org)** - 3D racing game with Sci-Fi elements and own Track Editor. [[source]](https://github.com/stuntrally/stuntrally3)
+- **[Stunt Rally](https://stuntrally.tuxfamily.org)** - 带有科幻元素的 3D 赛车游戏，拥有自己的赛道编辑器。[[源码]](https://github.com/stuntrally/stuntrally3)
 
-- **[SuperTuxKart](https://supertuxkart.net)** - A free kart racing game. It focuses on fun and not on realistic kart physics. [[source]](https://github.com/supertuxkart/stk-code)
+- **[SuperTuxKart](https://supertuxkart.net)** - 一款免费的卡丁车竞速游戏，注重趣味性而非真实的卡丁车物理。[[源码]](https://github.com/supertuxkart/stk-code)
 
-- **[TORCS - The Open Racing Car Simulator](https://torcs.sourceforge.net)** - A highly portable multi platform car racing simulation. It is used as ordinary car racing game, as AI racing game and as research platform. [[source]](https://sourceforge.net/projects/torcs)
+- **[TORCS - 开放式赛车模拟器](https://torcs.sourceforge.net)** - 一款高度可移植的多平台赛车模拟器。可用作普通赛车游戏、AI 赛车游戏和研究平台。[[源码]](https://sourceforge.net/projects/torcs)
 
-- **[Trigger Rally](https://trigger-rally.sourceforge.io)** - A fast-paced single-player racing game for Linux and Windows. [[source]](https://sourceforge.net/projects/trigger-rally)
+- **[Trigger Rally](https://trigger-rally.sourceforge.io)** - 一款面向 Linux 和 Windows 的快节奏单人竞速游戏。[[源码]](https://sourceforge.net/projects/trigger-rally)
 
-- **[VDrift](https://vdrift.net)** - A cross-platform, open source driving simulation made with drift racing in mind. [[source]](https://github.com/VDrift/vdrift)
+- **[VDrift](https://vdrift.net)** - 一款跨平台开源驾驶模拟器，以漂移竞速为设计理念。[[源码]](https://github.com/VDrift/vdrift)
 
-- **[Yorg](https://ya2.itch.io/yorg)** - Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [[source]](https://github.com/cflavio/yorg) **Engine: [Panda3D](https://www.panda3d.org)** [[source]](https://github.com/panda3d/panda3d)
+- **[Yorg](https://ya2.itch.io/yorg)** - Yorg（Yorg's an Open Racing Game）是 Ya2 使用 Panda3D 为 Windows、OSX 和 Linux 开发的免费开源竞速游戏。[[源码]](https://github.com/cflavio/yorg) **引擎：[Panda3D](https://www.panda3d.org)** [[源码]](https://github.com/panda3d/panda3d)
 
-- **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game [Wipeout](https://en.wikipedia.org/wiki/Wipeout_(video_game)). [[source]](https://github.com/phoboslab/wipeout-rewrite)
+- **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - 这是对 1995 年 PSX 游戏[《反重力赛车》](https://en.wikipedia.org/wiki/Wipeout_(video_game))的重新实现。[[源码]](https://github.com/phoboslab/wipeout-rewrite)
 
-## Real-Time strategies
+## 即时战略游戏
 
-- **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [[source]](https://gitea.wildfiregames.com/0ad/0ad)
+- **[0 A.D.](https://play0ad.com)** - 一款免费开源的古代战争游戏。[[源码]](https://gitea.wildfiregames.com/0ad/0ad)
 
-- **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [[source]](https://github.com/beyond-all-reason/Beyond-All-Reason) **Engine: [Spring](https://springrts.com)** [[source]](https://github.com/spring/spring)
+- **[BAR](https://www.beyondallreason.info)** - Beyond All Reason。[[源码]](https://github.com/beyond-all-reason/Beyond-All-Reason) **引擎：[Spring](https://springrts.com)** [[源码]](https://github.com/spring/spring)
 
-- **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - A Dune 2 remake. [[source]](https://github.com/stefanhendriks/Dune-II---The-Maker)
+- **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - 《沙丘 2》的重制版。[[源码]](https://github.com/stefanhendriks/Dune-II---The-Maker)
 
-- **Freeserf.net** - Аn authentic remake of the game [The Settlers I](https://en.wikipedia.org/wiki/The_Settlers) by [BlueByte](https://en.wikipedia.org/wiki/Ubisoft_Blue_Byte). [[source]](https://github.com/Pyrdacor/freeserf.net)
+- **Freeserf.net** - 对 [BlueByte](https://en.wikipedia.org/wiki/Ubisoft_Blue_Byte) 游戏[《工人物语 I》](https://en.wikipedia.org/wiki/The_Settlers)的忠实重制版。[[源码]](https://github.com/Pyrdacor/freeserf.net)
 
-- **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper). [[source]](https://github.com/dkfans/keeperfx)
+- **[Keeper FX](https://keeperfx.net)** - [《地下城守护者》](https://en.wikipedia.org/wiki/Dungeon_Keeper)的开源重制版及粉丝扩展。[[源码]](https://github.com/dkfans/keeperfx)
 
-- **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [[source]](https://github.com/Anuken/Mindustry)
+- **[Mindustry](https://mindustrygame.github.io)** - 一款沙盒塔防游戏。[[源码]](https://github.com/Anuken/Mindustry)
 
-- **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). [[source]](https://github.com/SFTtech/openage)
+- **[OpenAge](https://openage.sft.mx)** - 一款自由（自由软件意义上的）跨平台 RTS 游戏引擎，提供[《帝国时代》](https://en.wikipedia.org/wiki/Age_of_Empires)的机制。[[源码]](https://github.com/SFTtech/openage)
 
-- **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)
+- **[OpenHV](https://www.openhv.net)** - 一款开源像素艺术科幻即时战略游戏。[[源码]](https://github.com/OpenHV/OpenHV)
 
-- **[OpenRA](https://www.openra.net)** - [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer), [Dune 2000](https://en.wikipedia.org/wiki/Dune_2000) and [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
+- **[OpenRA](https://www.openra.net)** - 为现代时代重建的[《命令与征服》](https://en.wikipedia.org/wiki/Command_%26_Conquer)、[《沙丘 2000》](https://en.wikipedia.org/wiki/Dune_2000)和[《红色警戒》](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)。[[源码]](https://github.com/OpenRA/OpenRA)
 
-- **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [[source]](https://github.com/eduard-permyakov/permafrost-engine)
+- **Permafrost Engine** - 一个用 C 语言编写的 OpenGL 3.3 即时战略游戏引擎。[[源码]](https://github.com/eduard-permyakov/permafrost-engine)
 
-- **Standard Of Iron** - A modern real-time strategy (RTS) game engine built with C++20, Qt 6, and OpenGL 3.3 Core. [[source]](https://github.com/djeada/Standard-of-Iron)
+- **Standard Of Iron** - 一个使用 C++20、Qt 6 和 OpenGL 3.3 Core 构建的现代即时战略（RTS）游戏引擎。[[源码]](https://github.com/djeada/Standard-of-Iron)
 
-- **[Warzone 2100](https://wz2100.net)** -  A free, open source, 3D real-time strategy game with a story-driven single-player campaign, online multi-player, offline skirmish, and more. [[source]](https://github.com/Warzone2100/warzone2100)
+- **[Warzone 2100](https://wz2100.net)** - 一款免费开源的 3D 即时战略游戏，包含剧情驱动的单人战役、在线多人、离线遭遇战等。[[源码]](https://github.com/Warzone2100/warzone2100)
 
-- **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [[source]](https://github.com/widelands/widelands)
+- **[Widelands](https://www.widelands.org)** - 一款免费开源的即时战略游戏。[[源码]](https://github.com/widelands/widelands)
 
-- **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
-and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Spring](https://springrts.com)** [[source]](https://github.com/spring/spring)
+- **[Zero-K](https://zero-k.info/)** - 拥有物理抛射物、智能单位和强大 UI 的 RTS 游戏。[[源码]](https://github.com/ZeroK-RTS/Zero-K) **引擎：[Spring](https://springrts.com)** [[源码]](https://github.com/spring/spring)
 
-### *[Blizzard Entertainment](https://en.wikipedia.org/wiki/Blizzard_Entertainment) Games Re-Implementations*
+### *[暴雪娱乐](https://en.wikipedia.org/wiki/Blizzard_Entertainment)游戏重新实现*
 
-- **OpenBW** - Free and open-source Best Wargame. [[source]](https://github.com/OpenBW/openbw) **[Brood War API](https://bwapi.github.io)** [[source]](https://github.com/OpenBW/bwapi)
+- **OpenBW** - 免费开源的 Best Wargame。[[源码]](https://github.com/OpenBW/openbw) **[Brood War API](https://bwapi.github.io)** [[源码]](https://github.com/OpenBW/bwapi)
 
-- **[Strategus](https://stratagus.com)** Engine Games [[source]](https://github.com/Wargus/stratagus)
+- **[Strategus](https://stratagus.com)** 引擎游戏 [[源码]](https://github.com/Wargus/stratagus)
 
-  - **[War1gus](https://stratagus.com/war1gus.html)** - A re-implementation of [Warcraft: Orcs & Humans](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans) that that can be played on modern platforms. [[source]](https://github.com/Wargus/war1gus)
+  - **[War1gus](https://stratagus.com/war1gus.html)** - [《魔兽争霸：人类与兽人》](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)的重新实现，可在现代平台上游玩。[[源码]](https://github.com/Wargus/war1gus)
 
-  - **[Wargus](https://stratagus.com)** - Importer and scripts for [Warcraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness), the expansion [Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal), and Aleonas Tales. [[source]](https://github.com/Wargus/wargus)
+  - **[Wargus](https://stratagus.com)** - [《魔兽争霸 II：黑暗之潮》](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)、资料片[《黑暗之门》](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal)以及 Aleonas Tales 的导入器和脚本。[[源码]](https://github.com/Wargus/wargus)
 
-  - **[Wyrmsun](https://andrettin.github.io)** - A strategy game which features elements of mythology, history and fiction. [[source]](https://github.com/Andrettin/Wyrmsun)
+  - **[Wyrmsun](https://andrettin.github.io)** - 一款融合神话、历史与虚构元素的策略游戏。[[源码]](https://github.com/Andrettin/Wyrmsun)
 
-  - **[Stargus](https://stratagus.com/stratagus.html)** - Importer and scripts for [Starcraft](https://en.wikipedia.org/wiki/StarCraft). [[source]](https://github.com/Wargus/stargus)
+  - **[Stargus](https://stratagus.com/stratagus.html)** - [《星际争霸》](https://en.wikipedia.org/wiki/StarCraft)的导入器和脚本。[[源码]](https://github.com/Wargus/stargus)
 
-- **Warsmash Mod Engine** - An emulation engine to improve Warcraft III modding. [[source]](https://github.com/Retera/WarsmashModEngine) **Engine: [LibGDX](https://libgdx.com)** [[source]](https://github.com/libgdx/libgdx)
+- **Warsmash Mod Engine** - 一个用于改进《魔兽争霸 III》模改的模拟引擎。[[源码]](https://github.com/Retera/WarsmashModEngine) **引擎：[LibGDX](https://libgdx.com)** [[源码]](https://github.com/libgdx/libgdx)
 
-### *[Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) and [EA](https://en.wikipedia.org/wiki/Electronic_Arts) Games from [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer) Series*
+### *[Westwood Studios](https://en.wikipedia.org/wiki/Westwood_Studios) 和 [EA](https://en.wikipedia.org/wiki/Electronic_Arts) 的[《命令与征服》](https://en.wikipedia.org/wiki/Command_%26_Conquer)系列游戏*
 
-- **Command & Conquer Remastered Collection** - TiberianDawn.dll, RedAlert.dll and the Map Editor for the [Command & Conquer Remastered Collection](https://en.wikipedia.org/wiki/Command_%26_Conquer_Remastered_Collection). [[source]](https://github.com/electronicarts/CnC_Remastered_Collection)
+- **《命令与征服：重制版合集》** - [《命令与征服：重制版合集》](https://en.wikipedia.org/wiki/Command_%26_Conquer_Remastered_Collection)的 TiberianDawn.dll、RedAlert.dll 和地图编辑器。[[源码]](https://github.com/electronicarts/CnC_Remastered_Collection)
 
-- **Generals** - [Command & Conquer Generals](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals), and its expansion pack [Zero Hour](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals_%E2%80%93_Zero_Hour). [[source]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
+- **Generals** - [《命令与征服：将军》](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals)及其资料片[《绝命时刻》](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals_%E2%80%93_Zero_Hour)。[[源码]](https://github.com/electronicarts/CnC_Generals_Zero_Hour)
 
-- **[Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)** - [[source]](https://github.com/electronicarts/CnC_Red_Alert)
+- **[Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)** - [[源码]](https://github.com/electronicarts/CnC_Red_Alert)
 
-- **[Tiberian Dawn](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game))** - [[source]](https://github.com/electronicarts/CnC_Tiberian_Dawn)
+- **[Tiberian Dawn](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game))** - [[源码]](https://github.com/electronicarts/CnC_Tiberian_Dawn)
 
-## Roguelikes
+## Roguelike 游戏
 
-- **[Brogue CE](https://sites.google.com/site/broguegame/)** - Brogue is a minimalist, turn-based, procedurally-generated roguelike game where you descend a perilous dungeon to retrieve the Amulet of Yendor. [[source]](https://github.com/tmewett/BrogueCE)
+- **[Brogue CE](https://sites.google.com/site/broguegame/)** - Brogue 是一款极简主义、回合制、程序生成的 Roguelike 游戏，你需深入险恶地牢，夺回 Amulet of Yendor。[[源码]](https://github.com/tmewett/BrogueCE)
 
-- **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [[source]](https://github.com/CleverRaven/Cataclysm-DDA)
+- **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - 一款以末日世界为背景的回合制生存游戏。[[源码]](https://github.com/CleverRaven/Cataclysm-DDA)
 
-- **[Dungeon Crawl Stone Soup](https://crawl.develz.org)** - An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot. [[source]](https://github.com/crawl/crawl)
+- **[Dungeon Crawl Stone Soup](https://crawl.develz.org)** - 一款开源 Roguelike 冒险游戏，穿越充满危险怪物的地牢，寻找神秘而美妙的 Orb of Zot。[[源码]](https://github.com/crawl/crawl)
 
-- **[NetHack](https://nethack.org)** - Single player dungeon exploration game. [[source]](https://github.com/NetHack/NetHack)
+- **[NetHack](https://nethack.org)** - 单人地牢探索游戏。[[源码]](https://github.com/NetHack/NetHack)
 
-- **[Meritous](http://asceai.net/meritous)** - An action-adventure dungeon crawl game. [[source]](https://github.com/Patashu/Meritous)
+- **[Meritous](http://asceai.net/meritous)** - 一款动作冒险地牢探索游戏。[[源码]](https://github.com/Patashu/Meritous)
 
-- **OpenNefia** - Moddable engine reimplementation of the Japanese roguelike [Elona](https://en.wikipedia.org/wiki/Elona_(video_game)). [[source]](https://github.com/OpenNefia/OpenNefia)
+- **OpenNefia** - 日本 Roguelike 游戏[《Elona》](https://en.wikipedia.org/wiki/Elona_(video_game))的可模改引擎重新实现。[[源码]](https://github.com/OpenNefia/OpenNefia)
 
-- **[Shattered Pixel Dungeon](https://shatteredpixel.com)** - An open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. [[source]](https://github.com/00-Evan/shattered-pixel-dungeon)
+- **[Shattered Pixel Dungeon](https://shatteredpixel.com)** - 一款开源传统 Roguelike 地牢探索游戏，拥有随机生成的关卡和敌人，以及数百种可收集和使用的物品。[[源码]](https://github.com/00-Evan/shattered-pixel-dungeon)
 
-## Role-Playing games
+## 角色扮演游戏
 
-- **[Ambermoon.net](https://pyrdacor.itch.io/ambermoon)** - A full C# rewrite of [Ambermoon](https://en.wikipedia.org/wiki/Ambermoon). [[source]](https://github.com/Pyrdacor/Ambermoon.net)
+- **[Ambermoon.net](https://pyrdacor.itch.io/ambermoon)** - [《Ambermoon》](https://en.wikipedia.org/wiki/Ambermoon)的完整 C# 重写版。[[源码]](https://github.com/Pyrdacor/Ambermoon.net)
 
-- **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [[source]](https://github.com/Interkarma/daggerfall-unity)
+- **[Daggerfall Unity](https://www.dfworkshop.net)** - 在 Unity 引擎中对[《匕首雨》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall)的开源重制。[[源码]](https://github.com/Interkarma/daggerfall-unity)
 
-- **[Exult](https://exult.sourceforge.io)** - A project to recreate [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) for modern operating systems. [[source]](https://github.com/exult/exult)
+- **[Exult](https://exult.sourceforge.io)** - 一个为现代操作系统重制[《创世纪 VII》](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate)的项目。[[源码]](https://github.com/exult/exult)
 
-- **Fallout Community Edition** - A fully working re-implementation of [Fallout](https://en.wikipedia.org/wiki/Fallout_(video_game)). [[source]](https://github.com/alexbatalov/fallout1-ce)
+- **Fallout Community Edition** - [《辐射》](https://en.wikipedia.org/wiki/Fallout_(video_game))的完整可用重新实现。[[源码]](https://github.com/alexbatalov/fallout1-ce)
 
-- **Fallout 2 Community Edition** - A fully working re-implementation of [Fallout 2](https://en.wikipedia.org/wiki/Fallout_2). [[source]](https://github.com/alexbatalov/fallout2-ce)
+- **Fallout 2 Community Edition** - [《辐射 2》](https://en.wikipedia.org/wiki/Fallout_2)的完整可用重新实现。[[源码]](https://github.com/alexbatalov/fallout2-ce)
 
-- **[GemRB](https://gemrb.org)** - A portable open-source implementation of Bioware’s [Infinity Engine](https://en.wikipedia.org/wiki/Infinity_Engine) [[source]](https://en.wikipedia.org/wiki/Infinity_Engine)
+- **[GemRB](https://gemrb.org)** - Bioware [Infinity 引擎](https://en.wikipedia.org/wiki/Infinity_Engine)的可移植开源实现 [[源码]](https://en.wikipedia.org/wiki/Infinity_Engine)
 
-  **Supported games:**
+  **支持的游戏：**
 
-  - [Baldur’s Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game))
+  - [《博德之门》](https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game))
 
-  - [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
+  - [《博德之门 II：安姆的阴影》](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
 
-  - [Icewind Dale](https://en.wikipedia.org/wiki/Icewind_Dale)
+  - [《冰风谷》](https://en.wikipedia.org/wiki/Icewind_Dale)
 
-  - [Icewind Dale II](https://en.wikipedia.org/wiki/Icewind_Dale_II)
+  - [《冰风谷 II》](https://en.wikipedia.org/wiki/Icewind_Dale_II)
 
-  - [Planescape: Torment](https://en.wikipedia.org/wiki/Planescape:_Torment)
+  - [《异域镇魂曲》](https://en.wikipedia.org/wiki/Planescape:_Torment)
 
-- **[Kandria](https://kandria.com)** - An action RPG made in Common Lisp. [[source]](https://codeberg.org/shirakumo/kandria) **Engine: [Trial](https://shirakumo.org/docs/trial/)** [[source]](https://codeberg.org/shirakumo/trial)
+- **[Kandria](https://kandria.com)** - 一款用 Common Lisp 制作的动作 RPG。[[源码]](https://codeberg.org/shirakumo/kandria) **引擎：[Trial](https://shirakumo.org/docs/trial/)** [[源码]](https://codeberg.org/shirakumo/trial)
 
-- **[Naev](https://naev.org)** - A 2d action/rpg space game that combines elements from the action, rpg and simulation genres. [[source]](https://codeberg.org/naev/naev)
+- **[Naev](https://naev.org)** - 一款 2D 动作/RPG 太空游戏，融合了动作、RPG 和模拟类型元素。[[源码]](https://codeberg.org/naev/naev)
 
-- **[Oolite](https://www.oolite.space/)** - An open-world space opera. [[source]](https://github.com/OoliteProject/oolite)
+- **[Oolite](https://www.oolite.space/)** - 一款开放世界太空歌剧。[[源码]](https://github.com/OoliteProject/oolite)
 
-- **OpenEnroth** - [Might and Magic VI-VIII](https://en.wikipedia.org/wiki/Might_and_Magic) engine remake using original data & code. [[source]](https://github.com/OpenEnroth/OpenEnroth)
+- **OpenEnroth** - 使用原始数据和代码对[《魔法门 VI-VIII》](https://en.wikipedia.org/wiki/Might_and_Magic)引擎的重制。[[源码]](https://github.com/OpenEnroth/OpenEnroth)
 
-- **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind). [[source]](https://github.com/OpenMW/openmw)
+- **[OpenMW](https://openmw.org)** - 一款免费、开源且现代的引擎，为开放世界角色扮演游戏[《上古卷轴 III：晨风》](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)重新实现并扩展了 2002 年的 Gamebryo 引擎。[[源码]](https://github.com/OpenMW/openmw)
 
-- **OpenNox** - An open-source community collaboration project extending the Nox engine. [[source]](https://github.com/noxworld-dev/opennox)
+- **OpenNox** - 一个开源社区协作项目，扩展了 Nox 引擎。[[源码]](https://github.com/noxworld-dev/opennox)
 
-- **reone** - A free and open source game engine, capable of running [Star Wars: Knights of the Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic) and its sequel, [The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords). [[source]](https://github.com/seedhartha/reone)
+- **reone** - 一款免费开源的游戏引擎，能够运行[《星球大战：旧共和国武士》](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic)及其续作[《西斯领主》](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords)。[[源码]](https://github.com/seedhartha/reone)
 
-- **[Severed Chains](https://legendofdragoon.org/projects/severed-chains)** - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck. [[source]](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)
+- **[Severed Chains](https://legendofdragoon.org/projects/severed-chains)** - [《龙骑士传说》](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon)的反编译、逆向工程并移植到 PC/Mac/Linux/Steam Deck。[[源码]](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)
 
-- **[Space Station 14](https://spacestation14.io/)** – Open-source remake of [Space Station 13](https://en.wikipedia.org/wiki/Space_Station_13). [[source]](https://github.com/space-wizards/space-station-14)
+- **[Space Station 14](https://spacestation14.io/)** – [《太空站 13》](https://en.wikipedia.org/wiki/Space_Station_13)的开源重制版。[[源码]](https://github.com/space-wizards/space-station-14)
 
-- **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) that presents the game in 3D and fixes various issues with the game. [[source]](https://github.com/ViridianGames/U7Revisited)
+- **[Ultima VII: Revisited](https://www.u7revisited.com)** - [《创世纪 VII》](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate)的替代引擎，以 3D 呈现游戏并修复了游戏中的各种问题。[[源码]](https://github.com/ViridianGames/U7Revisited)
 
-- **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [[source]](https://github.com/veloren/veloren)
+- **[Veloren](https://www.veloren.net/)** - 用 Rust 编写的多人体素 RPG。[[源码]](https://github.com/veloren/veloren)
 
-### *[Diablo](https://en.wikipedia.org/wiki/Diablo_(series)) Re-Implementations*
+### *[《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(series))重新实现*
 
-- **Abyss Engine** - Clean-room reimplementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II), written in C. [[source]](https://github.com/AbyssEngine/AbyssEngine)
+- **Abyss Engine** - 用 C 语言编写的[《暗黑破坏神 2》](https://en.wikipedia.org/wiki/Diablo_II)净室重新实现。[[源码]](https://github.com/AbyssEngine/AbyssEngine)
 
-- **[DevilutionX](https://devilutionx.com/)** - A port of [Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game)) and [Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [[source]](https://github.com/diasurgical/devilutionX)
+- **[DevilutionX](https://devilutionx.com/)** - [《暗黑破坏神》](https://en.wikipedia.org/wiki/Diablo_(video_game))和[《地狱火》](https://en.wikipedia.org/wiki/Diablo:_Hellfire)的移植版，力求简化游戏运行，同时提供引擎改进、缺陷修复和一些可选的人性化功能。[[源码]](https://github.com/diasurgical/devilutionX)
 
-- **[Freeablo](https://freeablo.org)** - A work-in-progress free and open-source replacement for the [Diablo I](https://en.wikipedia.org/wiki/Diablo_(video_game)) engine. [[source]](https://github.com/wheybags/freeablo)
+- **[Freeablo](https://freeablo.org)** - 一个尚在开发中的免费开源替代品，用于替代[《暗黑破坏神 I》](https://en.wikipedia.org/wiki/Diablo_(video_game))引擎。[[源码]](https://github.com/wheybags/freeablo)
 
-- **Open Diablo II** - An open source re-implementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II). [[source]](https://github.com/OpenDiablo2/OpenDiablo2)
+- **Open Diablo II** - [《暗黑破坏神 2》](https://en.wikipedia.org/wiki/Diablo_II)的开源重新实现。[[源码]](https://github.com/OpenDiablo2/OpenDiablo2)
 
-### *Massively Multiplayer Online Role-Playing Games*
+### *大型多人在线角色扮演游戏*
 
-- **OpenKO** - An open source version of the old school [Knight Online](https://en.wikipedia.org/wiki/Knight_Online) MMORPG. [[source]](https://github.com/Open-KO/KnightOnline)
+- **OpenKO** - 老派[《骑士 Online》](https://en.wikipedia.org/wiki/Knight_Online) MMORPG 的开源版本。[[源码]](https://github.com/Open-KO/KnightOnline)
 
-- **OpenKore** - A custom client and intelligent automated assistant for [Ragnarok Online](https://en.wikipedia.org/wiki/Ragnarok_Online). [[source]](https://github.com/OpenKore/openkore)
+- **OpenKore** - 为[《仙境传说 Online》](https://en.wikipedia.org/wiki/Ragnarok_Online)定制的客户端和智能自动化助手。[[源码]](https://github.com/OpenKore/openkore)
 
-## Sandbox games
+## 沙盒游戏
 
-- **Minosoft** - An open source minecraft client, written from scratch in Kotlin (and java). [[source]](https://github.com/bixilon/minosoft) [[source]](https://gitlab.bixilon.de/bixilon/minosoft)
+- **Minosoft** - 一个用 Kotlin（及 Java）从零编写的开源 Minecraft 客户端。[[源码]](https://github.com/bixilon/minosoft) [[源码]](https://gitlab.bixilon.de/bixilon/minosoft)
 
-## Shoot 'em up games
+## 射击游戏
 
-- **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [[source]](https://github.com/fragglet/sdl-sopwith)
+- **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - 经典双翼飞机射击游戏“Sopwith”的移植版，可在现代计算机和操作系统上运行。[[源码]](https://github.com/fragglet/sdl-sopwith)
 
-- **[Taisei Project](https://taisei-project.org)** - A free and open-source fangame of the [Tōhō series](https://en.wikipedia.org/wiki/Touhou_Project), written in C using SDL3 and OpenGL. [[source]](https://github.com/taisei-project/taisei)
+- **[Taisei Project](https://taisei-project.org)** - 一款免费开源的[东方系列](https://en.wikipedia.org/wiki/Touhou_Project)同人游戏，使用 C 语言、SDL3 和 OpenGL 编写。[[源码]](https://github.com/taisei-project/taisei)
 
-## Sport games
+## 体育游戏
 
-- **[Open Golf](https://mgerdes.github.io/minigolf.html)** - A cross-platform minigolf game written in C. [[source]](https://github.com/mgerdes/Open-Golf)
+- **[Open Golf](https://mgerdes.github.io/minigolf.html)** - 一款用 C 语言编写的跨平台迷你高尔夫游戏。[[源码]](https://github.com/mgerdes/Open-Golf)
 
-- **[Pooltool](https://pooltool.readthedocs.io)** - A sandbox billiards game that emphasizes realistic physics. [[source]](https://github.com/ekiefl/pooltool)
+- **[Pooltool](https://pooltool.readthedocs.io)** - 一款强调真实物理的沙盒台球游戏。[[源码]](https://github.com/ekiefl/pooltool)
 
-## Third-Person games
+## 第三人称游戏
 
-- **[Command & Conquer Renegade](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Renegade)** - [[source]](https://github.com/electronicarts/CnC_Renegade)
+- **[《命令与征服：变节者》](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Renegade)** - [[源码]](https://github.com/electronicarts/CnC_Renegade)
 
-- **CroftEngine** - An open-source [Tomb Raider 1](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)) engine remake. [[source]](https://github.com/stohrendorf/CroftEngine)
+- **CroftEngine** - 一个开源的[《古墓丽影 1》](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))引擎重制版。[[源码]](https://github.com/stohrendorf/CroftEngine)
 
-- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - Cross-platform, open-source 3D action game. [[source]](https://github.com/WolfireGames/lugaru)
+- **[Lugaru: The Rabbit's Foot](http://www.wolfire.com/lugaru)** - 跨平台开源 3D 动作游戏。[[源码]](https://github.com/WolfireGames/lugaru)
 
-- **[OpenLara](http://xproger.info/projects/OpenLara)** - Classic Tomb Raider open-source engine. [[source]](https://github.com/XProger/OpenLara)
+- **[OpenLara](http://xproger.info/projects/OpenLara)** - 经典《古墓丽影》开源引擎。[[源码]](https://github.com/XProger/OpenLara)
 
-- **[OpenRW](https://openrw.org)** - A [Grand Theft Auto III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) re-implementation. [[source]](https://github.com/rwengine/openrw)
+- **[OpenRW](https://openrw.org)** - [《侠盗猎车手 III》](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III)的重新实现。[[源码]](https://github.com/rwengine/openrw)
 
-- **[Overgrowth](https://overgrowth.wolfire.com)** - The sequel to Lugaru. [[source]](https://github.com/WolfireGames/overgrowth)
+- **[Overgrowth](https://overgrowth.wolfire.com)** - Lugaru 的续作。[[源码]](https://github.com/WolfireGames/overgrowth)
 
-- **RE3** - The fully reversed source code for [GTA III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) and [GTA VC](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City). [[source]](https://github.com/VideogameSources/gta3-decomp-alt)
+- **RE3** - [《GTA III》](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III)和[《GTA 罪恶都市》](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City)的完整逆向源代码。[[源码]](https://github.com/VideogameSources/gta3-decomp-alt)
 
-- **[Tomb Engine](https://tombengine.com)** - An open-source engine for custom [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider) adventures. Core Design era (1 - 5). [[source]](https://github.com/TombEngine/TombEngine)
+- **[Tomb Engine](https://tombengine.com)** - 一个用于自定义[《古墓丽影》](https://en.wikipedia.org/wiki/Tomb_Raider)冒险的开源引擎。Core Design 时代（1 - 5）。[[源码]](https://github.com/TombEngine/TombEngine)
 
-## Tower Defence games
+## 塔防游戏
 
-- **[Server Survival](https://pshenok.github.io/server-survival)** - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. [[source]](https://github.com/pshenok/server-survival)
+- **[Server Survival](https://pshenok.github.io/server-survival)** - 一款教授云架构的塔防游戏。构建基础设施、在流量中生存、学习扩展。[[源码]](https://github.com/pshenok/server-survival)
 
-## Turn-Based strategies
+## 回合制策略游戏
 
-- [Ancient Beast](https://ancientbeast.com) - A turn based strategy indie game project played online against other people. [[source]](https://github.com/FreezingMoon/AncientBeast)
+- [Ancient Beast](https://ancientbeast.com) - 一款回合制策略独立游戏项目，可在线与其他玩家对战。[[源码]](https://github.com/FreezingMoon/AncientBeast)
 
-- **[Athena Crisis](https://athenacrisis.com)** - A modern-retro turn-based tactical strategy game. [[source]](https://github.com/nkzw-tech/athena-crisis)
+- **[Athena Crisis](https://athenacrisis.com)** - 一款现代复古风格的回合制战术策略游戏。[[源码]](https://github.com/nkzw-tech/athena-crisis)
 
-- **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [[source]](http://c-evo.org/files/files.php)
+- **[C-evo](http://c-evo.org/)** - 一款免费的 Windows 帝国建设游戏。[[源码]](http://c-evo.org/files/files.php)
 
-- **[fheroes2](https://ihhub.github.io/fheroes2)** - A recreation of [Heroes of Might and Magic II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) game engine. [[source]](https://github.com/ihhub/fheroes2)
+- **[fheroes2](https://ihhub.github.io/fheroes2)** - [《魔法门之英雄无敌 II》](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II)游戏引擎的重制版。[[源码]](https://github.com/ihhub/fheroes2)
 
-- **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game[Colonization](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization), and similar to [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)). [[source]](https://github.com/FreeCol/freecol)
+- **[FreeCol](https://www.freecol.org/)** - 一款基于旧游戏[《殖民》](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)的回合制策略游戏，类似于[《文明》](https://en.wikipedia.org/wiki/Civilization_(video_game))。[[源码]](https://github.com/FreeCol/freecol)
 
-- **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [[source]](https://github.com/freeciv/freeciv)
+- **[Freeciv](http://www.freeciv.org/)** - 一款自由开源的帝国建设策略游戏。[[源码]](https://github.com/freeciv/freeciv)
 
-- **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [[source]](https://github.com/freeorion/freeorion)
+- **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - 一款免费开源的回合制太空帝国与银河征服（4X）电脑游戏。[[源码]](https://github.com/freeorion/freeorion)
 
-- **[Hnefatafl](https://hnefatafl.org/)** - The game of Copenhagen Hnefatafl. Sort of like chess. [[source]](https://github.com/dcampbell24/hnefatafl)
+- **[Hnefatafl](https://hnefatafl.org/)** - 哥本哈根 Hnefatafl 棋。有点像国际象棋。[[源码]](https://github.com/dcampbell24/hnefatafl)
 
-- **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - Javascript/HTML5 rewrite of [Panzer General II](https://en.wikipedia.org/wiki/Panzer_General_II) game. [[source]](https://github.com/nicupavel/openpanzer)
+- **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - [《装甲元帅 II》](https://en.wikipedia.org/wiki/Panzer_General_II)游戏的 JavaScript/HTML5 重写版。[[源码]](https://github.com/nicupavel/openpanzer)
 
-- **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular [UFO: Enemy Unknown](https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown) and [X-COM: Terror From the Deep](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep) video games by [MicroPros](https://en.wikipedia.org/wiki/MicroProse). [[source]](https://github.com/OpenXcom/OpenXcom)
+- **[OpenXcom](https://openxcom.org/)** - [MicroPros](https://en.wikipedia.org/wiki/MicroProse) 出品的热门[《UFO：未知敌人》](https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown)和[《X-COM：深海恐惧》](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep)电子游戏的开源克隆版。[[源码]](https://github.com/OpenXcom/OpenXcom)
 
-- **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [[source]](https://github.com/wesnoth/wesnoth)
+- **[《韦诺之战》](https://www.wesnoth.org/)** - 一款高奇幻主题的回合制策略游戏。[[源码]](https://github.com/wesnoth/wesnoth)
 
-- **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of [Civilization V](https://en.wikipedia.org/wiki/Civilization_V). [[source]](https://github.com/yairm210/Unciv)
+- **[Unciv](https://yairm210.itch.io/unciv)** - [《文明 V》](https://en.wikipedia.org/wiki/Civilization_V)的开源 Android/桌面重制版。[[源码]](https://github.com/yairm210/Unciv)
 
-- **[VCMI Project](https://vcmi.eu)** - Open-source engine for [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III). [[source]](https://github.com/vcmi/vcmi)
+- **[VCMI 项目](https://vcmi.eu)** - [《魔法门之英雄无敌 III》](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III)的开源引擎。[[源码]](https://github.com/vcmi/vcmi)
 
-## Other lists
+## 其他列表
 
 - **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)**
 
